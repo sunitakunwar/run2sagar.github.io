@@ -1,0 +1,37 @@
+*{margin: 0px auto;
+padding: 10px;
+}
+.header{
+	height: 100px;
+	width: 900px;
+	background-color: red;
+
+}
+.header h1{
+	text-align: center;
+}
+.c{
+	margin-left: 10px;
+}
+
+.a{
+	height: 750px;
+	width:400px;
+	float: left;
+	background-image: url(a.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.b{
+	height: 750px;
+	width: 600px;
+	float: left;
+	background-color:grey;
+}
+.b ul{
+	list-style:none;
+}
+.b ol{
+	list-style-type: none;	
+}
+
