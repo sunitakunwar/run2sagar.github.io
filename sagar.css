@@ -21,9 +21,10 @@ padding: 10px;
 	background-image: url(B.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
+	margin-left:101px;
 }
 .b{
-	margin-left: 50px;
+	margin-left:0px;
 	height: 750px;
 	width: 600px;
 	float: left;
